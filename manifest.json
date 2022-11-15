@@ -1,0 +1,22 @@
+{
+  "name": "Cafe Perjuangan ",
+  "short_name": "Cafe Perjuangan ",
+  "description": "Aplikasi Cafe sederhana dengan javascript PWA",
+  "icons": [
+      {
+      "src": "assets/images/pk.png",
+      "sizes": "512x512",
+      "type": "image/png"
+      },
+      {
+      "src": "assets/images/pk-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+      }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
